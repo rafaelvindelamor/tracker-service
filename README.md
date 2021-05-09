@@ -7,3 +7,6 @@ Plugins:
 - [sbt-dependency-check](https://github.com/albuch/sbt-dependency-check)
 - [sbt-coverage](https://github.com/scoverage/sbt-scoverage)
 - [sbt-tpolecat](https://github.com/DavidGregory084/sbt-tpolecat)
+
+References:
+- [Multi-project builds](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)
